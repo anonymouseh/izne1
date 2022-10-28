@@ -20,11 +20,11 @@ Best Tool For Increase Instagram Follower.
 
 `$ git clone https://github.com/anonymouseh/izne1`
 
-`$ cd insfollow`
+`$ cd ozne22`
 
-`$ chmod +x insfollow.sh`
+`$ chmod +x ozne22.sh`
 
 `$ termux-wake-lock`
 
-`$ bash insfollow.sh`
+`$ bash ozne22.sh`
 
